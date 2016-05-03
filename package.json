@@ -1,0 +1,26 @@
+{
+  "name": "hopista",
+  "version": "1.0.0",
+  "description": "Fancy beer visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JebronLames/Hopista.git"
+  },
+  "keywords": [
+    "Beer"
+  ],
+  "author": "Alex Uribe and Raelina Krikston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JebronLames/Hopista/issues"
+  },
+  "homepage": "https://github.com/JebronLames/Hopista#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
